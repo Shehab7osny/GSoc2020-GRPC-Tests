@@ -1,0 +1,2 @@
+PKG_CPPFLAGS=-IC:/msys64/mingw64/include -D_WIN32_WINNT=0x600
+PKG_LIBS=-LC:/msys64/mingw64/lib -lgrpc -lgpr
